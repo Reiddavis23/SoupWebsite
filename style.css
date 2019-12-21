@@ -1,0 +1,49 @@
+body {
+background-color: lavender;
+padding: 20px;
+padding-top: 30px;
+}
+
+
+h1 {
+   font-size: 60px;
+   font-family: Arial;
+}
+
+h2 {
+   font-size: 40px;
+   font-family: Arial;
+}
+
+h3 {
+   font-size: 25px;
+   font-family: Arial;
+}
+
+h4 {
+   font-size: 18px;
+   font-family: Arial;
+}
+
+h4 {
+   font-size: 30px;
+   font-family: Arial;
+}
+
+
+p {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+
+
+a {
+  color:blue;
+  text-decoration: none;
+
+
+a:hover {
+  color: #0000ff;
+  text-decoration: underline;
+}
